@@ -1,0 +1,306 @@
+
+**** ERROR file opened at 20190127 063609 India Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:2428 Error in program 'java': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=310 USER=SD_MKT PASSWD=******* LANG=EN MSHOST=erpprd.ds.indianoil.in R3NAME=PRD GROUP=ERPRFC TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20190224 060018 India Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:35320 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=erpprd.ds.indianoil.in, R3NAME=PRD, GROUP=ERPRFC
+
+LOCATION    CPIC (TCP/IP) on local host MKHO-SCHEDULAR151
+ERROR       *** ERROR ***
+TIME        Sun Feb 24 06:00:18 2019
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+DETAIL      NiErrSet
+COUNTER     1
+
+T:35320 Error in program 'java': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=310 USER=SD_MKT PASSWD=******* LANG=EN MSHOST=erpprd.ds.indianoil.in R3NAME=PRD GROUP=ERPRFC TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20190310 060018 India Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:60692 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=erpprd.ds.indianoil.in, R3NAME=PRD, GROUP=ERPRFC
+
+LOCATION    CPIC (TCP/IP) on local host MKHO-SCHEDULAR151
+ERROR       *** ERROR ***
+TIME        Sun Mar 10 06:00:18 2019
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+DETAIL      NiErrSet
+COUNTER     1
+
+T:60692 Error in program 'java': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=310 USER=SD_MKT PASSWD=******* LANG=EN MSHOST=erpprd.ds.indianoil.in R3NAME=PRD GROUP=ERPRFC TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20190320 060012 India Standard Time, SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:13 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [4] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [4] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [5] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [5] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:14 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [6] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [6] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:15 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [7] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [7] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [8] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [8] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:16 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [9] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [9] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [10] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [10] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:17 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [11] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [11] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [12] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [12] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:18 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [13] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [13] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:19 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [14] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [14] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [15] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [15] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:20 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [16] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [16] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [17] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [17] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:21 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [18] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [18] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:22 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [19] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [19] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [20] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [20] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:23 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [21] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [21] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [22] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [22] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:24 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [23] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [23] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [24] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [24] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:25 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [25] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [25] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [26] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [26] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:26 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [27] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [27] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:27 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [28] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [28] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [29] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [29] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:28 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [30] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [30] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:32 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:33 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:34 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:35 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:36 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:37 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:38 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:39 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:40 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:41 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:42 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:43 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:44 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:45 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:46 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:47 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:48 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:49 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:50 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:51 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:52 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:53 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:54 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Wed Mar 20 06:00:55 2019
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [1] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_BLOCK_BULK.
+T:64312 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:64312 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION

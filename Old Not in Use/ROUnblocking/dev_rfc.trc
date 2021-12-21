@@ -1,0 +1,9 @@
+
+**** ERROR file opened at 20171004 153759 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:1056 Error in program 'java': ======> Name or password is incorrect (repeat logon)
+T:1056 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20171011 171101 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:5360 Error in program 'java': ======> Function module "YV_IF_CUST_SALE_UNBLOCK_BULK" cannot be used for 'remote' calls.
+T:5360 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:5360 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION

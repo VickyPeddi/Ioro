@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is JAX-WS RI 2.2.6-1b01  svn-revision#13094. --><xs:schema xmlns:tns="http://ioc/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://ioc/">
+
+<xs:element name="DeliveredSMS_Update" type="tns:DeliveredSMS_Update"/>
+
+<xs:element name="DeliveredSMS_UpdateResponse" type="tns:DeliveredSMS_UpdateResponse"/>
+
+<xs:element name="InComingSMS" type="tns:InComingSMS"/>
+
+<xs:element name="InComingSMSResponse" type="tns:InComingSMSResponse"/>
+
+<xs:element name="JSONException" type="tns:JSONException"/>
+
+<xs:element name="OutGoingSMS" type="tns:OutGoingSMS"/>
+
+<xs:element name="OutGoingSMSResponse" type="tns:OutGoingSMSResponse"/>
+
+<xs:complexType name="OutGoingSMS">
+<xs:sequence>
+<xs:element name="mobile_no" type="xs:string" minOccurs="0"/>
+<xs:element name="sms_content" type="xs:string" minOccurs="0"/>
+<xs:element name="sms_type" type="xs:string" minOccurs="0"/>
+<xs:element name="userID" type="xs:string" minOccurs="0"/>
+<xs:element name="password" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="OutGoingSMSResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="InComingSMS">
+<xs:sequence>
+<xs:element name="mobile_no" type="xs:string" minOccurs="0"/>
+<xs:element name="sms_content" type="xs:string" minOccurs="0"/>
+<xs:element name="sms_receive_datetime" type="xs:string" minOccurs="0"/>
+<xs:element name="sms_receive_uniqueID" type="xs:string" minOccurs="0"/>
+<xs:element name="userID" type="xs:string" minOccurs="0"/>
+<xs:element name="password" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="InComingSMSResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="JSONException">
+<xs:sequence>
+<xs:element name="message" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="DeliveredSMS_Update">
+<xs:sequence>
+<xs:element name="uniqueID" type="xs:string" minOccurs="0"/>
+<xs:element name="SMS_STATUS_VENDOR" type="xs:string" minOccurs="0"/>
+<xs:element name="SMS_DELIV_DTTIME_VENDOR" type="xs:string" minOccurs="0"/>
+<xs:element name="SMS_FAILED_REASON_VENDOR" type="xs:string" minOccurs="0"/>
+<xs:element name="userID" type="xs:string" minOccurs="0"/>
+<xs:element name="password" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="DeliveredSMS_UpdateResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:schema>

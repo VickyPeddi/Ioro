@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://sandesh.indianoil.co.in/IOCSMSGateway/SMSGateway?wsdl" uri="wsdl/sandesh.indianoil.co.in/IOCSMSGateway/SMSGateway.wsdl"/>
+    <system systemId="http://sandesh.indianoil.co.in:80/IOCSMSGateway/SMSGateway?xsd=1" uri="wsdl/sandesh.indianoil.co.in_80/IOCSMSGateway/SMSGateway.xsd_1.xsd"/>
+</catalog>

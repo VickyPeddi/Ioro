@@ -1,0 +1,236 @@
+
+**** ERROR file opened at 20190904 195618 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:421676 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=/H/rfcrouter/H/erpprd, R3NAME=PRD, GROUP=ERP
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       connection to host 10.52.201.181, service 3299 timed out
+
+TIME        Wed Sep 04 19:56:18 2019
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -12
+MODULE      nixxi_r.cpp
+LINE        1078
+DETAIL      NiPConnect
+COUNTER     1
+
+
+**** ERROR file opened at 20190904 195717 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:425896 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=/H/rfcrouter/H/erpprd, R3NAME=PRD, GROUP=ERP
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       connection to host 10.52.201.181, service 3299 timed out
+
+TIME        Wed Sep 04 19:57:17 2019
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -12
+MODULE      nixxi_r.cpp
+LINE        1078
+DETAIL      NiPConnect
+COUNTER     1
+
+
+**** ERROR file opened at 20190904 195801 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:425040 Error in program 'java': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/rfcrouter/H/10.51.10.239, GWSERV=3300, ASHOST=10.51.10.239, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner not reached (host 10.52.201.181, service 3299)
+
+TIME        Wed Sep 04 19:58:01 2019
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -10
+MODULE      nixxi_r.cpp
+LINE        8724
+DETAIL      NiPConnect2
+SYSTEM CALL SiPeekPendConn
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at 20190904 200026 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:425496 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=/H/rfcrouter/H/erpprd, R3NAME=PRD, GROUP=ERP
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       connection to host 10.52.201.181, service 3299 timed out
+
+TIME        Wed Sep 04 20:00:26 2019
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -12
+MODULE      nixxi_r.cpp
+LINE        1078
+DETAIL      NiPConnect
+COUNTER     1
+
+
+**** ERROR file opened at 20190904 200244 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:421320 Error in program 'java': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/rfcrouter/H/10.51.10.243, GWSERV=3300, ASHOST=10.51.10.243, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner not reached (host 10.52.201.181, service 3299)
+
+TIME        Wed Sep 04 20:02:44 2019
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -10
+MODULE      nixxi_r.cpp
+LINE        8724
+DETAIL      NiPConnect2
+SYSTEM CALL SiPeekPendConn
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at 20190904 201303 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:424988 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=/H/rfcrouter/H/erpprd, R3NAME=PRD, GROUP=ERP
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       connection to host 10.52.201.181, service 3299 timed out
+
+TIME        Wed Sep 04 20:13:03 2019
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -12
+MODULE      nixxi_r.cpp
+LINE        1078
+DETAIL      NiPConnect
+COUNTER     1
+
+
+**** ERROR file opened at 20190904 201834 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:423932 Error in program 'java': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/rfcrouter/H/10.51.10.157, GWSERV=3300, ASHOST=10.51.10.157, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner not reached (host 10.52.201.181, service 3299)
+
+TIME        Wed Sep 04 20:18:34 2019
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -10
+MODULE      nixxi_r.cpp
+LINE        8724
+DETAIL      NiPConnect2
+SYSTEM CALL SiPeekPendConn
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at 20190904 202142 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:422464 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=/H/rfcrouter/H/erpprd, R3NAME=PRD, GROUP=ERP
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       connection to host 10.52.201.181, service 3299 timed out
+
+TIME        Wed Sep 04 20:21:42 2019
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -12
+MODULE      nixxi_r.cpp
+LINE        1078
+DETAIL      NiPConnect
+COUNTER     1
+
+
+**** ERROR file opened at 20190904 202405 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:422968 Error in program 'java': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/rfcrouter/H/10.51.10.239, GWSERV=3300, ASHOST=10.51.10.239, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner not reached (host 10.52.201.181, service 3299)
+
+TIME        Wed Sep 04 20:24:05 2019
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -10
+MODULE      nixxi_r.cpp
+LINE        8724
+DETAIL      NiPConnect2
+SYSTEM CALL SiPeekPendConn
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:13156 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=/H/rfcrouter/H/erpprd, R3NAME=PRD, GROUP=ERP
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       connection to host 10.52.201.181, service 3299 timed out
+
+TIME        Thu Oct 01 13:12:42 2020
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -12
+MODULE      nixxi_r.cpp
+LINE        1078
+DETAIL      NiPConnect
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:4340 Error in program 'java': ======> No RFC authorization for function module YV_IF_CUST_SALE_UNBLOCK_BULK.
+T:4340 Error in program 'java': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:4340 Error in program 'java': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at , SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:16440 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=10.51.10.116, R3NAME=PRD, GROUP=ERP
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner not reached (host 10.51.10.116, service sapmsPRD)
+
+TIME        Fri Oct 23 12:07:22 2020
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -10
+MODULE      nixxi_r.cpp
+LINE        8724
+DETAIL      NiPConnect2
+SYSTEM CALL SiPeekPendConn
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:15096 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=/H/rfcrouter/H/erpprd, R3NAME=PRD, GROUP=ERP
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       connection to host 10.52.201.181, service 3299 timed out
+
+TIME        Fri Oct 23 18:30:52 2020
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -12
+MODULE      nixxi_r.cpp
+LINE        1078
+DETAIL      NiPConnect
+COUNTER     1
+

@@ -1,0 +1,65 @@
+
+**** ERROR file opened at 20180714 095521 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:213652 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=erpprd.ds.indianoil.in, R3NAME=PRD, GROUP=ERPRFC
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       timeout occured
+
+TIME        Sat Jul 14 09:55:21 2018
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -5
+COUNTER     1
+
+
+**** ERROR file opened at 20180714 095802 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:217620 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=erpprd.ds.indianoil.in, R3NAME=PRD, GROUP=ERPRFC
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       timeout occured
+
+TIME        Sat Jul 14 09:58:02 2018
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -5
+COUNTER     1
+
+
+**** ERROR file opened at 20180714 102434 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:218464 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=erpprd.ds.indianoil.in, R3NAME=PRD, GROUP=ERPRFC
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       internal error (this retcode should be handled by caller of
+            MS-layer)
+
+TIME        Sat Jul 14 10:24:34 2018
+RELEASE     640
+COMPONENT   MS (message handling interface, multithreaded)
+VERSION     4
+RC          -4
+COUNTER     2
+
+
+**** ERROR file opened at 20180815 193022 India Standard, SAP-REL 640,0,165 RFC-VER 3 881549 MT-SL
+T:288024 Error in program 'java': ======> Connect to message server failed
+Connect_PM  MSHOST=erpprd.ds.indianoil.in, R3NAME=PRD, GROUP=ERPRFC
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       connection to host erpprd.ds.indianoil.in, service sapmsPRD
+            timed out
+
+TIME        Wed Aug 15 19:30:22 2018
+RELEASE     640
+COMPONENT   NI (network interface)
+VERSION     37
+RC          -12
+MODULE      nixxi_r.cpp
+LINE        1078
+DETAIL      NiPConnect
+COUNTER     1
+

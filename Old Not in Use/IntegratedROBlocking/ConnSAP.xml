@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"> 
+<properties> 
+<entry key="SAPUSERID">SD_MKT</entry>  
+<entry key="SAPPASSWORD">sd_mkt_ho</entry> 
+</properties> 
